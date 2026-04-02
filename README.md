@@ -28,5 +28,4 @@ Gemini AI processes the input
 AI returns:
 Best ad timing
 Ad description
-Target audience insights
-Results are displayed to the user
+
